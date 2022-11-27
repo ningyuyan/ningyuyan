@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+}
+.CONTENT{
+    width: 100%;
+    height:100%;
+    background-color: antiquewhite;
+    
+    }
+.con{
+    width: 600px;
+    height:1052px;
+    /*background-color: blueviolet;*/
+    background-image: url(https://typoraningyuyan.oss-cn-beijing.aliyuncs.com/Shape%207%20copy.png);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title{
+    height: 170px;
+    width:100%;
+   /* background-color: aquamarine;*/
+    position: relative;
+}
+.tit-Content{
+    height: 100px;
+    width: 600px;
+    /*background-color: black;*/
+    color: aliceblue;
+    
+    position: absolute;
+    top: 36px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.tit-img1{
+    width: 50px;
+    height: 50px;
+    border-radius:50px;
+    /*background-color: blue;*/
+}
+.tit-content{
+    width: 123px;
+    height: 50px;
+    font-size: 32px;
+    text-align: center;
+    line-height: 50px;
+    /*background-color: white;*/
+}
+
+.tit-img2{
+    width: 50px;
+    height: 50px;
+    border-radius:50px;
+    /*background-color: blue;*/
+}
+.picture{
+    height: 150px;
+    width:150px;
+    border: 1px solid white;
+    margin: 0 auto;
+    border-radius: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color: rgba(255,255,255, 0.2);
+
+}
+.pic-con1{
+    height: 50px;
+    width:50px;
+    text-align: center;
+    line-height: 50px;
+    color: aliceblue;
+    /*background-color: blueviolet;*/
+}
+.pic-con2{
+    height: 30px;
+    width:80px;
+    text-align: center;
+    line-height: 30px;
+    color: aliceblue;
+    font-size: 20px;
+    
+    
+}
+.Content{
+    width: 465px;
+    height: 340px;
+    /*background-color: red;*/
+    position: relative;
+    margin: 0 auto;
+    
+}
+.content{
+    width: 465px;
+    height: 340px;
+    /*background-color: blueviolet;*/
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+}
+.content1{
+    width: 465px;
+    height: 60px;
+    font-size: 26px;
+    color: aliceblue;
+   /* background-color: burlywood;*/
+    border-bottom: solid 1px aliceblue;
+    
+}
+.content2{
+    width: 465px;
+    height: 60px;
+    font-size: 26px;
+    color: aliceblue;
+   /* background-color: burlywood;*/
+    border-bottom: solid 1px aliceblue;
+    
+}
+.content3{
+    width: 465px;
+    height: 60px;
+    font-size: 26px;
+    color: aliceblue;
+   /* background-color: burlywood;*/
+    border-bottom: solid 1px aliceblue;
+    
+}
+.content4{
+    width: 465px;
+    height: 60px;
+    font-size: 26px;
+    color: aliceblue;
+   /* background-color: burlywood;*/
+    
+    
+}
+
+.show{
+    width: 60px;
+    height: 27px;
+    font-size: 23px;
+   /* background-color:yellowgreen;*/
+    position: absolute;
+    right: 10px;
+    bottom: 40px;
+    color:aqua ;
+    /*background-color: yellowgreen;*/
+
+}
+.submit{
+    width: 465px;
+    height: 80x;
+    background-color:white;
+    margin:0 80px;
+    margin-top: 70px;
+    text-align: center;
+    line-height: 80x;
+    font-size: 48px;
+    color: #706d9f;
+    border-color: azure;
+    border-radius: 40px 40px 40px 40px;
+    
+}
+.bottom{
+    width: 465px;
+    height: 36x;
+    /*background-color: blue;*/
+    margin:0 auto;
+    font-size: 23px;
+    text-align: center;
+    line-height: 36x;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom1{
+    color: aliceblue;
+}
+.bottom2{
+    color: aqua;
+    font-size: 25px;
+    background-color: white;
+    background-color: transparent;
+}
